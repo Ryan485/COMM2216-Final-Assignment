@@ -21,11 +21,13 @@ virtualenv venv
 source venv/Scripts/activate.bat
 ```
 for Windows, then press Enter. This will create a separate virtual environment for the program.
+
 4. Then, into the same terminal, type
 ```bash
 pip install requirements.txt
 ```
 This will install the required dependencies for the project.
+
 5. To run the documentation server, type
 ```bash
 mkdocs serve
