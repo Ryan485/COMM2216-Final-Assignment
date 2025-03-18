@@ -32,3 +32,14 @@ This will install the required dependencies for the project.
 ```bash
 mkdocs serve
 ```
+
+6. Then go to the link that is displayed in the command line.
+It should look something like 
+```bash
+http://127.0.0.1:[port-number]/
+```
+or
+```bash
+http://localhost:[port-number]/
+```
+The link should take you to the documentation homepage.
