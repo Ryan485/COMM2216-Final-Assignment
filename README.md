@@ -12,7 +12,7 @@
 3. In the terminal type
 ```bash
 virtualenv venv
-source venv/Scripts/activate
+source venv/bin/activate
 ```
 for Linux-based systems (MacOS, other Linux distros),
 and 
@@ -20,6 +20,10 @@ and
 virtualenv venv
 source venv/Scripts/activate.bat
 ```
+> ![warning]
+> If you are using `cmd.exe` instead of PowerShell,
+> use the double-backslash (`\\`) for directory delimiters.
+
 for Windows, then press Enter. This will create a separate virtual environment for the program.
 
 4. Then, into the same terminal, type
