@@ -25,4 +25,16 @@ or a Windows machine.
 
 ## Typographical Conventions
 
+| Format | Description | Examples |
+|--------|-------------|----------|
+|        |             |          |
+
 ## Admonitions
+
+!!! note
+    
+    Note description here
+
+!!! warning
+    
+    Warning description here
