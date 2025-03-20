@@ -20,7 +20,7 @@ and
 virtualenv venv
 source venv/Scripts/activate.bat
 ```
-> ![warning]
+> [!warning]
 > If you are using `cmd.exe` instead of PowerShell,
 > use the double-backslash (`\\`) for directory delimiters.
 
