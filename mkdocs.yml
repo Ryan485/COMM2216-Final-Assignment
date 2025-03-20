@@ -6,7 +6,7 @@ theme:
     text: Merriweather Sans
     code: Red Hat Mono
   icon:
-    logo: fontawesome/solid/paw
+    logo: fontawesome/brands/github-alt
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -20,6 +20,13 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - User Guide: 
+    - cloning.md
+  - troubleshooting.md
+  - glossary.md
 
 markdown_extensions:
   - attr_list
