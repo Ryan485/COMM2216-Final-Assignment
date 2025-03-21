@@ -34,14 +34,21 @@ or a Windows machine.
 
 ## Admonitions
 
+Additional information will be presented using the following
+admonitions:
+
 !!! note
     
-    Note description here
+    This is a note indicating an aside or
+    general further information for the reader.
 
 !!! warning
     
-    Warning description here
+    This is a warning notifying the reader about
+    information or actions to pay extra attention to.
 
 !!! success
 
-    Success description here
+    This is a success message notifying the reader
+    about the successful outcome of a process.
+
