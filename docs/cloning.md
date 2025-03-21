@@ -1,10 +1,18 @@
 Cloning to the Local Machine
 ==
 
-# Steps
+## Steps
 1. Go to the desired repository on your machine.
 2. On the repository page, there is a button that has the label `< >`. Click that button. A dropdown should pop showing options for cloning.
 3. Focusing on the "Local" option, there are three choices: we can clone to local via HTTPS, SSH, or the GitHub Command-line interface (CLI). 
+4. Open a terminal in the directory for the local copy's destination.
+
+!!! note
+
+    If you are cloning `your-repository-name` 
+    into the `destination` directory,
+    the resulting file structure will be
+    `destination/your-repository-name`
 
 === "HTTPS"
 
