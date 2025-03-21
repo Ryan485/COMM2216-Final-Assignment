@@ -24,6 +24,8 @@ theme:
 nav:
   - Home: index.md
   - User Guide: 
+    - creating_repository.md
+    - forking_repository.md
     - cloning.md
   - troubleshooting.md
   - glossary.md
