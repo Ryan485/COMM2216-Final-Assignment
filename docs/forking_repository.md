@@ -1,4 +1,4 @@
-Forking Repository
+Fork a Repository
 ==
 
 ## Overview

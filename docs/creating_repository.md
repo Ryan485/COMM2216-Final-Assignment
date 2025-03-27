@@ -1,4 +1,4 @@
-Creating Repository
+Create a Repository
 ==
 
 ## Overview
