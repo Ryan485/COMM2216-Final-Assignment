@@ -1,8 +1,14 @@
 Cloning to the Local Machine
 ==
 ## Overview
+Cloning is essentially creating a copy of the repository hosted somewhere else,
+in this case GitHub, to the local machine.
+It enables tracking and synchronisation of the hosted version and the local version.
+
 This page contains the steps to clone a GitHub repository.
 It covers cloning via the terminal or a JetBrains IDE.
+By the end of the page, you should be able to modify and
+extend the repository locally.
 
 ## In Your Browser
 1. **Go** to the desired repository in GitHub.
@@ -30,7 +36,7 @@ Focusing on the "Local" option, there are three choices: we can clone via "HTTPS
 
 5. Copy the link into your clipboard.
 
-## Your Local Computer
+## In Your Local Computer
 
 === "via the terminal"
 
