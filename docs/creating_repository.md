@@ -66,23 +66,23 @@ This page covers how to create a repository and how to change a private reposito
 
         ![danger zone](img/danger_zone.png){: style="height:80%;width:100%;align:center"}
 
-    4. Click on **Change visibility**
+    4. **Click** on 'Change visibility'
     
         ![change visibility](img/change_visibility.png){: style="height:80%;width:100%;align:center"}
 
-    5. Click on **Change to public**
+    5. **Click** on 'Change to public'
 
         ![change to public](img/change_to_public.png){: style="height:80%;width:100%;align:center"}
 
-    6. Click on **I want to make this repository to public**
+    6. **Click** on 'I want to make this repository to public'
 
         ![change to public](img/confirmation_msg.png){: style="height:80%;width:100%;align:center"}
 
-    7. Click on **I have read and understand these effects**
+    7. **Click** on 'I have read and understand these effects'
 
         ![change to public](img/agreement.png){: style="height:80%;width:100%;align:center"}
 
-    8. Click on **Make this repository public**
+    8. **Click** on 'Make this repository public'
 
         ![change to public](img/make_it_public.png){: style="height:80%;width:100%;align:center"}
 
