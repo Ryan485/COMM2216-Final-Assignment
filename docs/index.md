@@ -34,7 +34,7 @@ or a Windows machine.
 | `[some-text]` | placeholder | Used to denote something that varies user-by-user. | `[user-name]`, `[file-name]`|
 | `code` | verbatim | Text that the user must write as it appears. | `git clone` |
 | **Action** | bold | An atomic action a user must do. | **Click**, **Close** |
-| *Button* | italic | Physical button, usually on a keyboard. | *Enter* |
+| *Button* | italic | Physical button, usually on a keyboard. Each button would be delimited with *+* if they are to be pressed at the same time. | *Enter* |
 
 ## Admonitions
 

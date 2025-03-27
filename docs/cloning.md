@@ -18,7 +18,7 @@ Focusing on the "Local" option, there are three choices: we can clone via "HTTPS
 
     ![Dropdown showing the `<> Code` Button ](img/cloning-02-01.png){: style="height:80%;width:80%;align:center"}
 
-4. **Copy** the URL to your clipboard by clicking :octicons-copy-16:.
+4. **Copy** the URL to your clipboard by clicking :octicons-copy-16: or pressing *Ctrl+C* (Windows, Linux) or *:material-apple-keyboard-command:+C* (MacOS).
 5. **Open** a terminal in the directory for the local copy's destination.
 
 !!! note
@@ -40,7 +40,7 @@ Focusing on the "Local" option, there are three choices: we can clone via "HTTPS
         ```zsh
         git clone https://github.com/[owner-name]/[repository-name].git
         ```
-    9. **Press** Enter.
+    9. **Press** *Enter*.
 
 === "via a JetBrains IDE"
 
@@ -51,7 +51,7 @@ Focusing on the "Local" option, there are three choices: we can clone via "HTTPS
     8. **Paste** the URL into the top text bar.
 
         ![Cloning](img/cloning-jetbrains-08-03.png){: style="width:85%;height:85%"}
-    9. **Press** Enter or **click** "Clone" to proceed to cloning.
+    9. **Press** *Enter* or **click** "Clone" to proceed to cloning.
 
 !!! success
     
