@@ -1,12 +1,5 @@
 Troubleshooting
 ==
-
-## Creating
-
-| Symptom | Possible Cause | Solution |
-|---------|----------------|----------|
-|  | | |
-
 ## Forking
 
 | Symptom | Possible Cause | Solution |
