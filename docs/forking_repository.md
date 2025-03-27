@@ -1,5 +1,6 @@
 Forking Repository
 ==
 
-# Steps
-1. testing3
+## Overview
+This page contains the steps to fork a GitHub repository.
+
