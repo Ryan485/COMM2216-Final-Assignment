@@ -33,7 +33,7 @@ This page covers how to create a repository and how to change a private reposito
     If you need a guide on how to change your **Private** repository to **Public**, check 'How to change it to public?' section below.
 
 === "Next Step"
-    6. Check 'Add a README file'
+    6. **Check** 'Add a README file'
 
     ![add readme](img/add_readme.png){: style="height:80%;width:100%;align:center"}
 
@@ -41,7 +41,7 @@ This page covers how to create a repository and how to change a private reposito
     !!! note
         It is recommended to include README file on your project as it provides essential information for users to understand what your project does, how to use it, and any other relevant details
 
-    7. Click on **Create repository**
+    7. **Click** on 'Create repository'
 
         ![add readme](img/create_repo.png){: style="height:80%;width:100%;align:center"}
 
