@@ -57,7 +57,7 @@ This page covers how to create a repository and how to change a private reposito
 
 === "How to change it to public?"
 
-    1. Navigate to the repository you’d like to switch from public to private.
+    1. Navigate to the repository you’d like to switch from private to public.
 
     2. Go to settings
         ![settings](img/settings.png){: style="height:80%;width:100%;align:center"}

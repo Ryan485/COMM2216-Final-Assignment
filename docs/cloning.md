@@ -30,10 +30,10 @@ extend the repository locally.
 
 !!! note
 
-    If you are cloning `repository-name` 
-    into the `destination` directory,
+    If you are cloning `[repository-name]` 
+    into the `[destination]` directory,
     the resulting file structure will be
-    `destination/repository-name`
+    `[destination]/[repository-name]`
 
 ## In Your Local Computer
 
