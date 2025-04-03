@@ -15,11 +15,11 @@ This page helps you how to fork a repository.
 
 2. Navigate to the repository you want to fork from.
 
-3. **Click** on 'Fork'.
+3. **Click** on "Fork".
 
     ![forking](img/forking.png){: style="height:100%;width:150%;align:center"}
 
-4. **Click** on 'Create a new fork'.
+4. **Click** on "Create a new fork".
 
     ![create fork](img/create_fork.png){: style="height:100%;width:150%;align:center"}
 
@@ -35,7 +35,7 @@ This page helps you how to fork a repository.
 
     ![description](img/description.png){: style="height:100%;width:150%;align:center"}
 
-8. **Click** on 'Create fork'
+8. **Click** on "Create fork"
 
     ![description](img/create_fork2.png){: style="height:100%;width:150%;align:center"}
 
