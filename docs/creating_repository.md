@@ -26,7 +26,7 @@ This page covers how to create a repository and how to change a private reposito
 5. Set your repository to **Private**.
     ![+ public or private](img/public_private.png){: style="height:80%;width:100%;align:center"}
 
-!!! note
+!!! warning
 
     Unless you want to share your code with others, it is generally recommended to set your repository **Private**. You can always change it to **Public** when needed.
 
