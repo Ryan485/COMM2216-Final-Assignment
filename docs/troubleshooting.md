@@ -1,10 +1,5 @@
 Troubleshooting
 ==
-## Forking
-
-| Symptom | Possible Cause | Solution |
-|---------|----------------|----------|
-|  | | |
 
 ## Cloning
 
